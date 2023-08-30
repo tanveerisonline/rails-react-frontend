@@ -19,7 +19,7 @@
   - [📜 License ](#-license-)
 </details>
 
-# 👋 Greeting App : Frontend
+# 👋 Greeting App: Frontend
 
 **This project is a frontend for my greeting app.**
 
